@@ -1,6 +1,10 @@
+
+
+
+
 # weather
 
-A new Flutter application.
+A new Weather Application based on flutter and dart code using data from openweatherapi.com for weather data
 
 ## Getting Started
 
