@@ -14,7 +14,7 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
   TextEditingController state = TextEditingController();
   String sim_url =
-      "http://api.openweathermap.org/data/2.5/weather?appid=ce92ed9fc19218fe2d3abb57ef42410b&q=";
+      "http://api.openweathermap.org/data/2.5/weather?appid="{"your api key"}"&q=";
   String temp = "";
   var tocelsius;
   String city = "";
